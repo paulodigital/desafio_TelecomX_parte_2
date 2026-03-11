@@ -76,6 +76,7 @@ Google Colab
 ## 👩‍💻 Autor
 
 Paulo Terra
+
 Analista de TI | Gestor CPD | Infraestrutura e Projetos
 
 Projeto desenvolvido para fins de estudo (Alura One) e portfólio profissional.
