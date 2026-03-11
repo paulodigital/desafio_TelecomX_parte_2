@@ -1,4 +1,4 @@
-# **📊 TelecomX: Predição de Evasão de Clientes (Churn) - Parte 2**
+# **📊 TelecomX - Parte 2: Predição de Evasão de Clientes (Churn)**
 ### 📌 Sobre o Projeto
 Este projeto é a segunda etapa do desafio “Telecom X – Análise de Evasão de Clientes”, cujo objetivo foi compreender os fatores que levam ao cancelamento de clientes (Churn) em uma empresa de telecomunicações.
 
